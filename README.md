@@ -1,4 +1,4 @@
-I don't know what to say here, this isn't the kind of thing I can get from Slack Overflow. So... it's me, I guess.
+Computer Science Student at the New Jersey Institute of Technology. See keys.txt for contact info.
 
 <!--
 **Holden988/Holden988** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
