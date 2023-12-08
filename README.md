@@ -1,4 +1,4 @@
-Computer Science Student at the New Jersey Institute of Technology. See keys.txt for contact info.
+Computer Science Student at the New Jersey Institute of Technology. If for some reason you need to reach me, email hrief(dot)impart157(at)8shield(dot)net.
 
 <!--
 **Holden988/Holden988** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
